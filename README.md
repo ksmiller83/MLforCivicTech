@@ -1,2 +1,2 @@
 # MLforCivicTech
-Resources for learning how to use Azure ML for Civic Tech
+Leverage Azure Machine Learning for civic tech! 
